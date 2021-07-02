@@ -1,5 +1,6 @@
 import logo from './img4.jpeg';
 import './header.css';
+import Modallogin from './Modallogin';
 
 function Header() {
   return (
@@ -8,10 +9,12 @@ function Header() {
     <img src={logo}/>
     </div>
    <div>
-     <button className='btn-azul'><i class="fas fa-power-off"></i>  Ingresar</button>
+   <button type="button" class="btn-azul" data-bs-toggle="modal" data-bs-target="#Mlogin"><i class="fas fa-power-off"></i>
+ Ingresar
+</button>
      <button className='btn-morado'><i class="fas fa-user-plus"></i>  Registrarse</button>
    </div>
-     
+     <Modallogin/>
    </header>
   );
 }
