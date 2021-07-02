@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Veterinaria/static/css/main.a8adde69.chunk.css",
+    "main.js": "/Veterinaria/static/js/main.0eecf0f7.chunk.js",
+    "main.js.map": "/Veterinaria/static/js/main.0eecf0f7.chunk.js.map",
+    "runtime-main.js": "/Veterinaria/static/js/runtime-main.986b21c9.js",
+    "runtime-main.js.map": "/Veterinaria/static/js/runtime-main.986b21c9.js.map",
+    "static/js/2.b424fefc.chunk.js": "/Veterinaria/static/js/2.b424fefc.chunk.js",
+    "static/js/2.b424fefc.chunk.js.map": "/Veterinaria/static/js/2.b424fefc.chunk.js.map",
+    "index.html": "/Veterinaria/index.html",
+    "static/css/main.a8adde69.chunk.css.map": "/Veterinaria/static/css/main.a8adde69.chunk.css.map",
+    "static/js/2.b424fefc.chunk.js.LICENSE.txt": "/Veterinaria/static/js/2.b424fefc.chunk.js.LICENSE.txt",
+    "static/media/footer.css": "/Veterinaria/static/media/img1.a3564256.jpeg",
+    "static/media/img10.82579e96.jpeg": "/Veterinaria/static/media/img10.82579e96.jpeg",
+    "static/media/img2.d12d5c44.jpeg": "/Veterinaria/static/media/img2.d12d5c44.jpeg",
+    "static/media/img4.15937070.jpeg": "/Veterinaria/static/media/img4.15937070.jpeg",
+    "static/media/img7.c5a1fe0c.jpeg": "/Veterinaria/static/media/img7.c5a1fe0c.jpeg",
+    "static/media/img9.fb8c305e.jpeg": "/Veterinaria/static/media/img9.fb8c305e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.986b21c9.js",
+    "static/js/2.b424fefc.chunk.js",
+    "static/css/main.a8adde69.chunk.css",
+    "static/js/main.0eecf0f7.chunk.js"
+  ]
+}
