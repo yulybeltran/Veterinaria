@@ -7,7 +7,7 @@ function Equipo() {
  
   return (
     <div>
-    <Nav/>
+   
     <div className="intro">
        
         <div class='agenda'>

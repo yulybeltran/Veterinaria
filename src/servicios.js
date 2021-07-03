@@ -7,7 +7,7 @@ import Nav from './nav';
 function Servicios() {
   return (
       <div>
-           <Nav/>
+          
     <div id="titulo">
     <h1>Servicios</h1>
   </div>
